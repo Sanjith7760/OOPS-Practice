@@ -8,6 +8,8 @@ class Parent{
 		System.out.println("Hello Java");
 	}
 }
+
+
 class Child extends Parent{
 	public static void fun() {
 		System.out.println("Child class");
